@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\baitapbuoi14\Commonlib\bin\Debug\net8.0\Commonlib.deps.json
+C:\Users\LENOVO\source\repos\baitapbuoi14\Commonlib\bin\Debug\net8.0\Commonlib.dll
+C:\Users\LENOVO\source\repos\baitapbuoi14\Commonlib\bin\Debug\net8.0\Commonlib.pdb
+C:\Users\LENOVO\source\repos\baitapbuoi14\Commonlib\obj\Debug\net8.0\Commonlib.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\baitapbuoi14\Commonlib\obj\Debug\net8.0\Commonlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\baitapbuoi14\Commonlib\obj\Debug\net8.0\Commonlib.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\baitapbuoi14\Commonlib\obj\Debug\net8.0\Commonlib.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\baitapbuoi14\Commonlib\obj\Debug\net8.0\Commonlib.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\baitapbuoi14\Commonlib\obj\Debug\net8.0\Commonlib.dll
+C:\Users\LENOVO\source\repos\baitapbuoi14\Commonlib\obj\Debug\net8.0\refint\Commonlib.dll
+C:\Users\LENOVO\source\repos\baitapbuoi14\Commonlib\obj\Debug\net8.0\Commonlib.pdb
+C:\Users\LENOVO\source\repos\baitapbuoi14\Commonlib\obj\Debug\net8.0\ref\Commonlib.dll
